@@ -2,6 +2,7 @@
 
 Install Docker on Ubuntu
 
+```
 # https://docs.docker.com/engine/install/ubuntu/
 # https://docs.docker.com/engine/install/linux-postinstall/
 
@@ -27,3 +28,4 @@ $ sudo add-apt-repository \
 # Update the apt package index, and install the latest version of Docker Engine and containerd
 $ sudo apt-get update
 $ sudo apt-get -y install docker-ce docker-ce-cli containerd.io docker-compose
+```
